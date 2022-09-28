@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "plugins": [
         ["module-resolver", {
@@ -6,4 +7,14 @@
           }
         }]
       ]
+=======
+{
+    "plugins": [
+        ["module-resolver", {
+          "alias": {
+            "~": "./src"
+          }
+        }]
+      ]
+>>>>>>> cad7785d52bb009414f62ca3e987e40ddff61c0b
     }
